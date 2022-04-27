@@ -1,8 +1,8 @@
-# Assignment 1
+# Paper-Scissors-Rock game
 
 ## Introduction
 
-The Paper-Scissors-Rock game. The code is documented using Doxygen and consists of a library, the main executable, and unit tests.
+The Paper-Scissors-Rock game. This is a software design exercise. The code is documented using Doxygen and consists of a library, the main executable, and unit tests.
 CMake is used for the build, see the instructions below for the build.
 
 The main classes are:
